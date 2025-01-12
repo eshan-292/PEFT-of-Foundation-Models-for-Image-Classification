@@ -1,4 +1,4 @@
-# COL828 Assignment 1 - Fine-Tuning & Prompt-Tuning for CLIP
+# Parameter Efficient Fine-Tuning & Prompt-Tuning for CLIP
 
 ## Overview
 This project implements and evaluates various fine-tuning and prompt-tuning strategies for the Vision Transformer (ViT) backbone of OpenAI's CLIP model in an image classification task. The experiments include zero-shot inference, linear probing, shallow and deep Visual Prompt Tuning (VPT), dual VPT, and full fine-tuning. Metrics such as training and test accuracy, convergence speed, and trainable parameters are analyzed for comparison.
