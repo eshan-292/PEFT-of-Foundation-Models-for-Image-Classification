@@ -1,0 +1,19 @@
+Requirements:
+- pytorch
+- transformers
+- datasets
+- PIL
+- sklearn
+- matplotlib
+- seaborn
+
+
+Running instructions:
+-> To run all files and generate the output files, run the following command:
+python run_all_experiments
+
+-> To run a specific experiment, run the python file corresponding to that experiment
+Example:
+python3.10 E1.py
+
+
